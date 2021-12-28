@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/sweet" name="anubhav-sngh/device_xiaomi_sweet.git" remote="github" revision="eleven" />
+ <project path="device/xiaomi/sm6150-common" name="anubhav-sngh/device_xiaomi_sm6150-common.git" remote="github" revision="eleven" />
+ <project path="vendor/xiaomi/sweet" name="" remote="" revision="" />
+ <project path="vendor/xiaomi/sm6150-common" name="" remote="" revision="" />
+ <project path="kernel/xiaomi/sm6150" name="anubhav-sngh/kernel_xiaomi_sweet.git" remote="github" revision="eleven" />
+ 
+</manifest>
